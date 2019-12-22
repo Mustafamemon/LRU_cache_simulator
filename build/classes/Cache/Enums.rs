@@ -1,0 +1,3 @@
+Cache.WriteHitPolicy
+Cache.WriteMissPolicy
+Cache.ReplacementPolicy

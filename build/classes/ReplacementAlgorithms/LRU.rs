@@ -1,0 +1,2 @@
+ReplacementAlgorithms.Block
+ReplacementAlgorithms.LRU
