@@ -7,10 +7,6 @@ package ReplacementAlgorithms;
 
 import java.util.HashMap;
 
-/**
- *
- * @author DELL
- */
 public abstract class ReplacementAlgo {
     protected int capacity;
     protected HashMap<Integer, Block> map = new HashMap<Integer, Block>();

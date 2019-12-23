@@ -5,10 +5,6 @@
  */
 package Cache;
 
-/**
- *
- * @author DELL
- */
 enum WriteHitPolicy{WriteThrough, WriteBack};
 enum WriteMissPolicy{WriteAllocate, NoWriteAllocate};
 enum ReplacementPolicy{FIFO, LRU, Random}

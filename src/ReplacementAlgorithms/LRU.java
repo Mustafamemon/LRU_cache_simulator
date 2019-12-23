@@ -5,12 +5,7 @@
  */
 package ReplacementAlgorithms;
 
-import java.util.HashMap;
 
-/**
- *
- * @author DELL
- */
 
 class Block{
     protected int key;
